@@ -19,4 +19,5 @@ Compile then run the program using MARS. You will first need to select option 1 
 Sometimes a 0 will be displayed instead of a very large number. This is not a fault but a limitation of the simulator.
 
 Assembly Program Output
+
 ![Assembly Program Output](/Screenshots/Assembly_Program_Output.png "Assembly Program Output")
