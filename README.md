@@ -13,3 +13,9 @@ This program will perform a number of pre-defined calculations on any two number
 Compile then run the program using MARS. You will first need to select option 1 to enter the first number followed by option 2 to enter the second number. Once you have done this, any of the options from 1 - 12 can be selected.
 
 Sometimes a 0 will be displayed instead of a very large number. This is not a fault but a limitation of the simulator.
+
+Logism Circuit Output
+![Logism Circuit Output](/Screenshots/logism_circuit_sm.gif "Logism Circuit Output")
+
+Assembly Program Output
+![Assembly Program Output](/Screenshots/Assembly_Program_Output.png "Assembly Program Output")
